@@ -1,0 +1,4 @@
+interface isCritical{
+    
+    void setIsCrticial();
+}
